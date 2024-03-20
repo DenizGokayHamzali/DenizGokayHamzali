@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- Simple bio and stats -->
+## Hi, I'm Deniz Gökay! 👋
 
-<!--
-**DenizGokayHamzali/DenizGokayHamzali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 I'm currently pursuing a Bachelor's degree in Computer Engineering at Istinye University, Istanbul, Türkiye.
+- 🔭 Currently diving into Swift & SwiftUI.
+- 📧 How to reach me: denizgokayhamzali@gmail.com
 
-Here are some ideas to get you started:
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenizGokayHamzali&show_icons=true&theme=tokyonight" alt="Deniz's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizGokayHamzali&layout=compact&theme=tokyonight"/> |
+| ------------- | ------------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
