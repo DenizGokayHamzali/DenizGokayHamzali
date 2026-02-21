@@ -5,10 +5,6 @@
 - 🔭 Currently diving into Swift & SwiftUI.
 - 📧 How to reach me: denizgokayhamzali@gmail.com
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenizGokayHamzali&show_icons=true&theme=tokyonight" alt="Deniz's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizGokayHamzali&layout=compact&theme=tokyonight"/> |
-| ------------- | ------------- |
-
 ## 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
