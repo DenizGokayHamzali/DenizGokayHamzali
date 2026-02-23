@@ -1,8 +1,8 @@
 <!-- Simple bio and stats -->
 ## Hi, I'm Deniz Gökay! 👋
 
-- 👨‍🎓 I'm currently pursuing a Bachelor's degree in Computer Engineering at Istinye University, Istanbul, Türkiye.
-- 🔭 Currently diving into Swift & SwiftUI.
+- 👨‍🎓 Bachelor of Science in Computer Engineering from Istinye University, Istanbul, Türkiye.
+- 🔭 Currently working as a Junior Machine Learning Engineer at Beko Corporate via PEAKUP.
 - 📧 How to reach me: denizgokayhamzali@gmail.com
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats and https://github.com/Pranesh-2005/github-readme-stats-fast -->
